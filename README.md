@@ -1,4 +1,4 @@
-Project Overview:
+# Project Overview:
 # Day 14 – 100 Days of Cloud Deployment Challenge
 
 On **Day 14** of my **100 Days of Cloud Deployment** challenge, I configured **Azure Traffic Manager** to enable **global load balancing**, ensuring **high availability** and **improved performance** for users across multiple regions.  
